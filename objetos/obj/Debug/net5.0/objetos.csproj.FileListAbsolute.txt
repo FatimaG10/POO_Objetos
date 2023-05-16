@@ -1,0 +1,16 @@
+C:\Users\Upqroo\Desktop\L\objetos\objetos\bin\Debug\net5.0\objetos.exe
+C:\Users\Upqroo\Desktop\L\objetos\objetos\bin\Debug\net5.0\objetos.deps.json
+C:\Users\Upqroo\Desktop\L\objetos\objetos\bin\Debug\net5.0\objetos.runtimeconfig.json
+C:\Users\Upqroo\Desktop\L\objetos\objetos\bin\Debug\net5.0\objetos.runtimeconfig.dev.json
+C:\Users\Upqroo\Desktop\L\objetos\objetos\bin\Debug\net5.0\objetos.dll
+C:\Users\Upqroo\Desktop\L\objetos\objetos\bin\Debug\net5.0\objetos.pdb
+C:\Users\Upqroo\Desktop\L\objetos\objetos\obj\Debug\net5.0\objetos.csproj.AssemblyReference.cache
+C:\Users\Upqroo\Desktop\L\objetos\objetos\obj\Debug\net5.0\objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upqroo\Desktop\L\objetos\objetos\obj\Debug\net5.0\objetos.AssemblyInfoInputs.cache
+C:\Users\Upqroo\Desktop\L\objetos\objetos\obj\Debug\net5.0\objetos.AssemblyInfo.cs
+C:\Users\Upqroo\Desktop\L\objetos\objetos\obj\Debug\net5.0\objetos.csproj.CoreCompileInputs.cache
+C:\Users\Upqroo\Desktop\L\objetos\objetos\obj\Debug\net5.0\objetos.dll
+C:\Users\Upqroo\Desktop\L\objetos\objetos\obj\Debug\net5.0\refint\objetos.dll
+C:\Users\Upqroo\Desktop\L\objetos\objetos\obj\Debug\net5.0\objetos.pdb
+C:\Users\Upqroo\Desktop\L\objetos\objetos\obj\Debug\net5.0\objetos.genruntimeconfig.cache
+C:\Users\Upqroo\Desktop\L\objetos\objetos\obj\Debug\net5.0\ref\objetos.dll
